@@ -10,6 +10,8 @@
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
+* 200OK Video Release
+  * Still waiting on logo files from maxxx
 * Simulcasting - Kimberly is looking for education institutions or public libraries where we can simulcast. Need more volunteers for this.
 * TBS Streaming
   * Streaming setup and execution went well
