@@ -26,12 +26,14 @@
   * We are requiring two streamers and two highlighters for each group that requests streaming for 2020.
 * OKC Streaming
   * Project 3810
-    * Audio quality was very low on the first streaming attempt. Recorded December meetup for OKC OSH and will upload a condensed version of the video to YouTube.
+    * Tried streaming but audio quality was very low. May try again at December meetup for OKC OSH .
   * StarSpace46
-    * We will be training new streaming volunteers identified in the 2020 user group applications.
   * TBS Factoring
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
+  * Due to unexpected changes in meeting locations for Tulsa Web Devs, streaming didn't work out as planned for November.
+  * An equipment failure prior to Tulsa Lambda Lunch left us unable to stream this month.  Backup equipment is being procured to prevent issues in the future.
+  * Need to discuss adding volunteers, and the process to get the equipment on-site.
 * Twitch Channel Management
 * Twitch Highlighting
 * YouTube Channel Management
